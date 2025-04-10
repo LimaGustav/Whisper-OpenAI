@@ -1,0 +1,244 @@
+1
+00:00:00,000 --> 00:00:05,040
+Qu'est-ce que tu fais ?
+
+2
+00:00:05,040 --> 00:00:06,320
+J'ai faim.
+
+3
+00:00:07,060 --> 00:00:08,020
+Je ne sais pas où je suis.
+
+4
+00:00:08,340 --> 00:00:10,060
+Je ne sais pas quand je retrouverai de quoi mourir.
+
+5
+00:00:10,220 --> 00:00:11,780
+Rémi, tu vaux mieux que ça.
+
+6
+00:00:12,580 --> 00:00:13,600
+Tu es cuisinier.
+
+7
+00:00:13,900 --> 00:00:15,200
+Un cuisinier est un créateur.
+
+8
+00:00:15,340 --> 00:00:16,540
+Le voleur, un profiteur.
+
+9
+00:00:16,720 --> 00:00:17,800
+Tu n'es pas un voleur.
+
+10
+00:00:19,080 --> 00:00:20,380
+Mais j'ai faim, moi.
+
+11
+00:00:21,860 --> 00:00:23,640
+La nourriture viendra, Rémi.
+
+12
+00:00:23,640 --> 00:00:27,620
+La nourriture ne manque jamais à ceux qui aiment la cuisine.
+
+13
+00:00:30,000 --> 00:00:42,120
+Tu n'as même pas le courage.
+
+14
+00:01:00,000 --> 00:01:29,980
+Sous-titrage ST' 501
+
+15
+00:01:30,000 --> 00:01:32,600
+Pendant tout ce temps, j'étais dans les égouts de Paris.
+
+16
+00:01:38,040 --> 00:01:39,280
+Quelle merveille.
+
+17
+00:01:41,380 --> 00:01:43,760
+La plus belle ville du monde.
+
+18
+00:01:44,260 --> 00:01:46,340
+Gusteau, c'est ton restaurant.
+
+19
+00:01:46,880 --> 00:01:48,720
+Tu m'as conduit jusqu'à ton restaurant.
+
+20
+00:01:49,460 --> 00:01:51,740
+Oui, ça m'en a tout l'air.
+
+21
+00:01:51,740 --> 00:01:53,300
+C'est là, tu y es.
+
+22
+00:01:53,500 --> 00:01:54,720
+Je t'ai amené jusqu'à lui.
+
+23
+00:01:54,860 --> 00:01:55,900
+Il faut que je vois ça.
+
+24
+00:01:57,600 --> 00:01:58,320
+Je vois.
+
+25
+00:02:00,000 --> 00:02:01,880
+Trois potages, trois riz morts.
+
+26
+00:02:02,120 --> 00:02:03,940
+Il me faut deux tarifs d'agneau.
+
+27
+00:02:04,440 --> 00:02:07,680
+La huit, deux saumons, trois salades composées, trois filets.
+
+28
+00:02:07,880 --> 00:02:09,260
+Trois composés, trois filets.
+
+29
+00:02:09,740 --> 00:02:10,680
+Et deux saumons, deux.
+
+30
+00:02:10,940 --> 00:02:11,420
+Ça marche.
+
+31
+00:02:11,440 --> 00:02:12,700
+Trois filets, c'est parti.
+
+32
+00:02:13,060 --> 00:02:14,000
+Asiènes, s'il vous plaît.
+
+33
+00:02:14,000 --> 00:02:16,340
+Trois salades, trois filets.
+
+34
+00:02:16,340 --> 00:02:17,780
+Trois salades, trois filets.
+
+35
+00:02:23,080 --> 00:02:24,040
+Bonsoir, chef.
+
+36
+00:02:24,420 --> 00:02:26,000
+Vous allez bien, chef ?
+
+37
+00:02:26,940 --> 00:02:28,200
+Bonsoir, chef.
+
+38
+00:02:28,500 --> 00:02:29,380
+Deux filets, deux filets.
+
+39
+00:02:30,000 --> 00:02:31,720
+Le patron, regardez qui est là.
+
+40
+00:02:31,920 --> 00:02:33,840
+Alfredo Linguini, le fils de Renata.
+
+41
+00:02:34,440 --> 00:02:35,500
+Il a grandi, hein ?
+
+42
+00:02:35,500 --> 00:02:35,720
+Bonsoir.
+
+43
+00:02:35,820 --> 00:02:37,140
+Vous vous souvenez de Renata ?
+
+44
+00:02:37,140 --> 00:02:38,580
+Le grand amour de Gusteau.
+
+45
+00:02:39,860 --> 00:02:40,680
+Ah, oui.
+
+46
+00:02:41,160 --> 00:02:42,300
+Comment allez-vous ?
+
+47
+00:02:42,300 --> 00:02:42,740
+Linguini.
+
+48
+00:02:42,920 --> 00:02:43,940
+C'est ça, Linguini.
+
+49
+00:02:44,120 --> 00:02:45,260
+C'est gentil de venir nous voir.
+
+50
+00:02:45,880 --> 00:02:47,120
+Et comment va...
+
+51
+00:02:47,120 --> 00:02:48,100
+Ma mère ?
+
+52
+00:02:48,100 --> 00:02:48,460
+Renata.
+
+53
+00:02:48,680 --> 00:02:49,880
+Ah, oui, Renata.
+
+54
+00:02:50,220 --> 00:02:50,980
+Comment va-t-elle ?
+
+55
+00:02:50,980 --> 00:02:51,240
+Bien.
+
+56
+00:02:51,820 --> 00:02:53,920
+Enfin, pas très bien.
+
+57
+00:02:54,360 --> 00:02:55,400
+En fait...
+
+58
+00:02:55,400 --> 00:02:56,020
+Elle est morte.
+
+59
+00:02:56,980 --> 00:02:57,200
+Oh.
+
+60
+00:02:58,320 --> 00:02:59,000
+Toutes mes condoléances.
+
+61
+00:02:59,200 --> 00:02:59,720
+Oh.
+

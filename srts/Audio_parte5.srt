@@ -1,0 +1,96 @@
+1
+00:00:00,000 --> 00:00:04,000
+Attendez ! Attendez-moi ! Attendez !
+
+2
+00:00:07,000 --> 00:00:08,000
+Papa ?
+
+3
+00:00:11,000 --> 00:00:12,000
+Papa ?
+
+4
+00:00:22,000 --> 00:00:23,000
+De quel côté ?
+
+5
+00:00:30,000 --> 00:00:31,000
+Hein ?
+
+6
+00:01:00,000 --> 00:01:13,000
+J'ai attendu.
+
+7
+00:01:16,000 --> 00:01:17,000
+Un bruit ?
+
+8
+00:01:19,000 --> 00:01:20,000
+Une voix ?
+
+9
+00:01:23,000 --> 00:01:24,000
+Un signe ?
+
+10
+00:01:27,000 --> 00:01:28,000
+Quelque chose ?
+
+11
+00:01:30,000 --> 00:01:31,000
+Un bruit ?
+
+12
+00:01:47,000 --> 00:01:50,000
+Si tu es affamé, remonte à la surface et regarde autour de toi.
+
+13
+00:01:52,000 --> 00:01:54,000
+Pourquoi restes-tu là à te morfondre ?
+
+14
+00:01:55,000 --> 00:01:57,000
+Ben, je viens de perdre ma famille.
+
+15
+00:01:58,000 --> 00:01:59,000
+D'où mes amis.
+
+16
+00:02:00,000 --> 00:02:01,000
+Sans doute pour toujours.
+
+17
+00:02:02,000 --> 00:02:03,000
+Comment le sais-tu ?
+
+18
+00:02:05,000 --> 00:02:08,000
+Tu es une illustration dans un livre. Pourquoi est-ce que je parle avec toi ?
+
+19
+00:02:09,000 --> 00:02:11,000
+Tu viens de perdre toute ta famille, tous tes amis.
+
+20
+00:02:12,000 --> 00:02:13,000
+Tu es découragé.
+
+21
+00:02:14,000 --> 00:02:15,000
+C'est ça, oui. Tu es mort.
+
+22
+00:02:16,000 --> 00:02:18,000
+Ça ne doit pas t'empêcher de croire à tes rêves.
+
+23
+00:02:19,000 --> 00:02:22,000
+Si tu fais une fixation sur le passé, tu sauras jamais ce que l'avenir te réserve.
+
+24
+00:02:23,000 --> 00:02:24,000
+Remonte à la surface et regarde !
+
